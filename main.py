@@ -2,7 +2,7 @@ from pet import Pet
 
 def main():
     print("🎉 Creating your digital pet: 🐶 Lynne!\n")
-    my_pet = Pet("Lynne")
+    my_pet = Pet("Lynne🐈")
 
     my_pet.get_status()
     my_pet.eat()
